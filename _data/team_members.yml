@@ -17,6 +17,23 @@
   education3: Especialización en Bioética
   education4: Máster en Telemedicina
 
+- name: Jheimer Julian Sepúlveda Lopez
+  photo: rock.jpg
+  info: <a href="https://www.linkedin.com/in/jheimerjuliansepulvedalopez/?originalSubdomain=co">Linkedin</a>
+  email: jjsepulveda@unal.edu.co
+  number_educ: 3
+  education1: Administrador de Sistemas Informáticos
+  education2: Magíster en Administración
+  education3: Doctor en Ingeniería, Inclusión Digital
+
+- name: Diego Julián Santos Mendez
+  photo: rock.jpg
+  info: <a href="https://www.linkedin.com/in/diego-juli%C3%A1n-santos-m%C3%A9ndez-970a9579/?originalSubdomain=co">Linkedin</a>
+  email: diego.santos@unad.educo
+  number_educ: 2
+  education1: Diseñador Industrial
+  education2: Maestría en Tecnología Educativa y Competencias digitales
+
 - name: Este podrías ser tú
   photo: rock.jpg
   info: Revisa <a href="https://aequitaslabseed.github.io/vacancies">las vacantes</a> para más información
