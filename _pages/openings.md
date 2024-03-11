@@ -36,6 +36,6 @@ You find the past job openings here:
 
 ### Applications for PhD and Postdoc positions
 
-### Master projects for Leiden University students
+### Proyectos de Maestría para la UNAD/UNAL
 
 ### Bsc / Master students from elsewhere
