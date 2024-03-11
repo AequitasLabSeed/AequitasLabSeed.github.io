@@ -1,11 +1,16 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
+- name: Linda Karol Romero Cajamarca
+  photo: rock.jpg
+  info: Inteligencia artificial y sesgo de género
+  email: lkromeroc@unadvirtual.edu.co
 #  number_educ:
 #  education1:
 #  education2:
 #  education3:
 #  education4:
+
+- name: Yackeline Hernandez Quiroga
+  photo: rock.jpg
+  info: Inteligencia en políticas públicas
+  email: yackeline.hernandez@unad.edu.co
 
 
