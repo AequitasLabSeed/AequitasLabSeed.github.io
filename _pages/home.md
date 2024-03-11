@@ -65,7 +65,7 @@ Como miembro de AequitasSeed, te unes a una comunidad de pensadores innovadores,
 Bienvenido a bordo,
 El equipo de AequitasSeed
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Buscamos nuevos investigadores y estudiantes apasionados de doctorado, maestría y pregrado para unirse al equipo** [(más información)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
