@@ -1,7 +1,7 @@
 ---
 title: "AequitasLab - Home"
 layout: homelay
-excerpt: "AequitasLab at Universidad Nacional Abierta y a Distancia &rarr; UNAD."
+excerpt: "AequitasLabSeed at AequitasLab &rarr; UNAD."
 sitemap: false
 permalink: /
 ---
