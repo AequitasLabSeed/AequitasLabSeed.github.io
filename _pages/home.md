@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "AequitasLab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "AequitasLab at Universidad Nacional Abierta y a Distancia &rarr; UNAD."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+**Noticias: ¡Da el Primer Paso con AequitasSeed: Inscripciones Abiertas!** Nos complace enormemente dar la bienvenida a los nuevos integrantes de nuestro semillero de investigación. En AequitasSeed, nos embarcamos en una misión apasionante y de suma importancia: explorar y desarrollar enfoques innovadores en inteligencia artificial y tecnologías disruptivas. Nuestro objetivo no es solo avanzar en el campo tecnológico, sino hacerlo de manera que maximice la generación de valor de forma ética, responsable y sostenible.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,16 +53,17 @@ More details to follow.
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+En este camino, nos dedicamos fervientemente a impulsar tanto la investigación como la educación, convencidos de que el verdadero progreso surge de la sinergia entre ambos. Buscamos desarrollar soluciones tecnológicas que no solo sean avanzadas e innovadoras, sino que también beneficien a la sociedad y la economía, manteniendo siempre en alto los principios de ética, bioética y respeto por la dignidad humana. 
 
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
+Creemos firmemente que la tecnología debe ser un vehículo para el bienestar colectivo, la equidad y la sostenibilidad. A través de nuestro trabajo conjunto, aspiramos a contribuir a un futuro donde la tecnología sea una fuerza promotora de estos ideales.
 
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
+Como miembro de AequitasSeed, te unes a una comunidad de pensadores innovadores, investigadores apasionados y educadores comprometidos, todos dedicados a hacer una diferencia significativa en el mundo a través de la tecnología. Te animamos a que te involucres activamente, compartas tus ideas y conocimientos, y colabores con tus colegas para alcanzar nuestros objetivos comunes. 
 
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
+¡Estamos emocionados por ver las contribuciones únicas que aportarás a nuestro semillero y por trabajar juntos hacia un futuro más justo, ético y sostenible! 
 
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+Bienvenido a bordo,
+El equipo de AequitasSeed
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
