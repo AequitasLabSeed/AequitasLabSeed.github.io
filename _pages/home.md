@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Noticias: ¡Da el Primer Paso con AequitasSeed: Inscripciones Abiertas!** Nos complace enormemente dar la bienvenida a los nuevos integrantes de nuestro semillero de investigación. En AequitasSeed, nos embarcamos en una misión apasionante y de suma importancia: explorar y desarrollar enfoques innovadores en inteligencia artificial y tecnologías disruptivas. Nuestro objetivo no es solo avanzar en el campo tecnológico, sino hacerlo de manera que maximice la generación de valor de forma ética, responsable y sostenible.
+**Noticias: ¡Da el Primer Paso con AequitasSeed: Inscripciones Abiertas!** Nos complace enormemente dar la bienvenida a nuevos integrantes de nuestro semillero de investigación. En AequitasSeed, nos embarcamos en una misión apasionante y de suma importancia: explorar y desarrollar enfoques innovadores en inteligencia artificial y tecnologías disruptivas. Nuestro objetivo no es solo avanzar en el campo tecnológico, sino hacerlo de manera que maximice la generación de valor de forma ética, responsable y sostenible.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,22 +24,22 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LogoAequitas.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bimg3.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VOSviewerKewword01.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img8.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img7.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/img15.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
