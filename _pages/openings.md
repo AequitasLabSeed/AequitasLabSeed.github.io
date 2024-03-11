@@ -15,7 +15,7 @@ En AequitasLab, estamos entusiasmados por abrir las puertas a nuevos talentos qu
 Si eres una persona innovadora, con ganas de explorar los límites de la tecnología y contribuir a un futuro más justo y sostenible, esta es tu oportunidad de sumarte a un equipo de pensadores, investigadores y educadores comprometidos con la excelencia y la diferencia significativa a través de la tecnología.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Bimg.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Bimg3.png" width="95%">
 </figure>
 
 Lo Que Ofrecemos:
