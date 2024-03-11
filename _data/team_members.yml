@@ -7,6 +7,16 @@
   education2: Magister en Ingeniería de sistemas y ciencias de la computación
   education3: Doctor en Ingeniería, Área de Gestión y Desarrollo Tecnológico
 
+- name: Margarita María Pineda Romero
+  photo: rock.jpg
+  info: <a href="https://www.linkedin.com/in/margarita-mar%C3%ADa-pineda-romero-81bb4054/?originalSubdomain=co">Linkedin</a>
+  email: margarita.pineda@unad.edu.co
+  number_educ: 4
+  education1: Técnica profecional en Electromedicina
+  education2: Ingeniería Biomédica
+  education3: Especialización en Bioética
+  education4: Máster en Telemedicina
+
 - name: Este podrías ser tú
   photo: rock.jpg
   info: Revisa <a href="https://aequitaslabseed.github.io/vacancies">las vacantes</a> para más información
