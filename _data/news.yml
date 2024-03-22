@@ -1,14 +1,11 @@
-- date: "11. Marzo 2024"
-  headline: "Fuimos invitados como ponentes en el [V Coloquio de la Felicidad y Bienestar Humano](https://eventos.unad.edu.co/)! ![image](/images/newspic/felicidad.png){:class="img-responsive"}"
-  
-- date: "13. Diciembre 2023"
-  headline: "Seremos moderadores en el [CONVED - El rol transformador de la Inteligencia Artificial Explorando nuevas dimensiones en EaD](https://aiesad.org/nuevo-conved-el-rol-transformador-de-la-inteligencia-artificial-explorando-nuevas-dimensiones-en-la-educacion-a-distancia/)! ![image](/images/newspic/conved.png){:class="img-responsive"}"
-  
-- date: "1. Noviembre 2023"
-  headline: "Estaremos en [Expo ASI 2023](https://eventos.unad.edu.co/) hablando sobre Retos éticos en el desarrollo de IA! ![image](/images/newspic/expoasi.png){:class="img-responsive"}"
-  
-- date: "5. Octubre 2023"
-  headline: "Seremos conferencistas en el [Seminario Ética y Bioética, enfoque inteligencia artificial](https://www.unilibre.edu.co/pereira/index.php/universidad/ultimas-noticias-inicio/3969-seminario-etica-bioetica-inteligencia-artificial-septiembre-2023) en la Universidad Libre de Colombia! ![image](/images/newspic/ulibre.png){:class="img-responsive"}"
-  
-- date: "28. Septiembre 2023"
-  headline: "Participaremos en el [III ENCUENTRO REGIONAL AIESAD](https://www.encuentroaiesad2023.com/programa28septiembre) en Madrid - España en donde hablaremos sobre IA Generativa y Educaciónai! ![image](/images/newspic/aiesad.png){:class="img-responsive"}"
+- date: 11. Marzo 2024
+  headline: Fuimos invitados como ponentes en el [V Coloquio de la Felicidad y Bienestar Humano](https://eventos.unad.edu.co/)!  ![image](/images/newspic/felicidad.png){:class="img-responsive"}
+
+- date: 1. Noviembre 2023
+  headline: Estaremos en  [Expo ASI 2023 ](https://eventos.unad.edu.co/) hablando sobre Retos éticos en el desarrollo de IA!  ![image](/images/newspic/expoasi.png){:class="img-responsive"}
+
+- date: 5. Octubre 2023
+  headline: Seremos conferencistas en el [Seminario Ética y Bioética, enfoque inteligencia artificial](https://www.unilibre.edu.co/pereira/index.php/universidad/ultimas-noticias-inicio/3969-seminario-etica-bioetica-inteligencia-artificial-septiembre-2023) en la Universidad Libre de Colombia!  ![image](/images/newspic/ulibre.png){:class="img-responsive"}
+
+- date: 28. Septiembre 2023
+headline: Participaremos en el [III ENCUENTRO REGIONAL AIESAD](https://www.encuentroaiesad2023.com/programa28septiembre) en Madrid - España en donde hablaremos sobre IA Generativa y Educaciónai!  ![image](/images/newspic/aiesad.png){:class="img-responsive"}
