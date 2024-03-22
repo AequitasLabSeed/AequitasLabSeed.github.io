@@ -20,7 +20,7 @@ Se examina el potencial de la IA para transformar la educación, desde personali
 
 **4.Sesgo y Equidad:** La investigación en este ámbito se enfoca en identificar y mitigar los sesgos algorítmicos que pueden llevar a la discriminación y a resultados injustos, promoviendo el desarrollo de una IA justa, equitativa y ética.
 
-**5.Visión por Computadora y Modelos Predictivos:**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/vision.png){: style="width: 250px; float: right; margin: 0px 10px"}
+**5.Visión por Computadora y Modelos Predictivos:** 
 Se exploran las innovaciones y los desafíos éticos en la visión por computadora y los modelos predictivos, especialmente en términos de su aplicación y las consideraciones éticas que estos plantean, como la privacidad y la autonomía.
 
 **6.Redes Neuronales y Seguridad:** Se discuten las implicaciones éticas de utilizar redes neuronales para mejorar las medidas de seguridad, incluyendo preocupaciones sobre privacidad, automatización y el uso ético de los datos.
