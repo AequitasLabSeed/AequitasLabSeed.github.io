@@ -26,7 +26,7 @@ Se exploran las innovaciones y los desafíos éticos en la visión por computado
 **6.Redes Neuronales y Seguridad:** Se discuten las implicaciones éticas de utilizar redes neuronales para mejorar las medidas de seguridad, incluyendo preocupaciones sobre privacidad, automatización y el uso ético de los datos.
 
 **7.Interacción Humano-IA**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/interaccion.png){: style="width: 70%; float: center; margin: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/interaccion.png){: style="width: 250px; float: right; margin: 0px 10px"}
 Se investiga cómo las interfaces y las interacciones entre humanos y sistemas de IA pueden diseñarse de manera ética, enfocándose en la confianza, la usabilidad y la experiencia del usuario, asegurando que estas tecnologías se desarrollen de forma centrada en el humano.
 
 **8.Internet de las Cosas (IoT) y Computación Afectiva:**
