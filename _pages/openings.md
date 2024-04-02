@@ -30,7 +30,7 @@ Buscamos Personas Que:
 -Deseen hacer avanzar el campo tecnológico de manera ética, responsable y sostenible.
 -Crean en el poder de la tecnología como vehículo para el bienestar colectivo y estén comprometidas con la creación de un futuro más equitativo.
 
-[Inscríbete aquí](https://forms.office.com/r/dnqLP4VJz7)
+## [Inscríbete aquí](https://forms.office.com/r/dnqLP4VJz7)
 
 ### Past open positions
 
